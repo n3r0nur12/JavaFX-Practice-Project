@@ -1,6 +1,15 @@
 # JavaFX Practice Project
 ## Offline Course Registration System
 
+### TECHNOLOGIES USED
+
+Maven to manage the project dependencies.
+Scene Builder when designing UI elements.
+JavaFX to design UI and to run the simulation.
+.json files to store transcripts, and weekly schedules of the students.
+
+### APPLICATION
+
 Created an offline course registration application where users can simulate randomly generated students.
 Students in application are created randomly. Their exam scores will form a normal distribution with mean 78
 and standard deviation 20. Each student is assigned a particular semester with some certain probability.
