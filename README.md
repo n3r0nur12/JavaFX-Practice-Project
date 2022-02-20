@@ -3,10 +3,10 @@
 
 ### TECHNOLOGIES USED
 
-Maven to manage the project dependencies.
-Scene Builder when designing UI elements.
-JavaFX to design UI and to run the simulation.
-.json files to store transcripts, and weekly schedules of the students.
+Maven to manage the project dependencies. <br />
+Scene Builder when designing UI elements. <br />
+JavaFX to design UI and to run the simulation. <br />
+.json files to store transcripts, and weekly schedules of the students. <br />
 
 ### APPLICATION
 
