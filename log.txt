@@ -1,0 +1,432 @@
+Feb 19, 2022 8:08:58 PM controller.WelcomeController fallButton
+INFO: Fall semester selected
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117000 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120000 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117001 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119000 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119001 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120001 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120002 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118000 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118001 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119002 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118002 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119003 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119004 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120003 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119005 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120004 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119006 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119007 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117002 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119008 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117003 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117004 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118003 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119009 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120005 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120006 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117005 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118004 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118005 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118006 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120007 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118007 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120008 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117006 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120009 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117007 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120010 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118008 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118009 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120011 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117008 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117009 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120012 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120013 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117010 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117011 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120014 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118010 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119010 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118011 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119011 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117012 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118012 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120015 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118013 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120016 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120017 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117013 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119012 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120018 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118014 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120019 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119013 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117014 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120020 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119014 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117015 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120021 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118015 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117016 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117017 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118016 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120022 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119015 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117018 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118017 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119016 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117019 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117020 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117021 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118018 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120023 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117022 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118019 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117023 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120024 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117024 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118020 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120025 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119017 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119018 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119019 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118021 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119020 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118022 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119021 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118023 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118024 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117025 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118025 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120026 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117026 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119022 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118026 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119023 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118027 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118028 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119024 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117027 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119025 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118029 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117028 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118030 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118031 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118032 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117029 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117030 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119026 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118033 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117031 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118034 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118035 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120027 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118036 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120028 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117032 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118037 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120029 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118038 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117033 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117034 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120030 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118039 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118040 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117035 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120031 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120032 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120033 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120034 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117036 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120035 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119027 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119028 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119029 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118041 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120036 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118042 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120037 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120038 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119030 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117037 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120039 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118043 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117038 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120040 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117039 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119031 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117040 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117041 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119032 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117042 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118044 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118045 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118046 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120041 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120042 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120043 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117043 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118047 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120044 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119033 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117044 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120045 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118048 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118049 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117045 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117046 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117047 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117048 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119034 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120046 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117049 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118050 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120047 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119035 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119036 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150118051 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120048 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120049 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119037 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120050 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119038 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119039 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119040 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120051 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120052 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117050 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150120053 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150119041 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createRandomStudent
+INFO: Student 150117051 registered.
+Feb 19, 2022 8:08:58 PM system.RegistrationSystem createEverything
+INFO: Total number of registered students:200
+Feb 19, 2022 8:09:19 PM controller.StudentLoginController goToMainMenu
+INFO: Successful login. Provided student number is: 150118000
+Feb 19, 2022 8:09:25 PM system.RegistrationSystem getAvailableCourses
+INFO: Available courses are fetched for the student 150118000
+Feb 19, 2022 8:09:34 PM controller.StudentWeeklyScheduleController listOptions
+INFO: Student 150118000 displayed Weekly Schedule.
+Feb 19, 2022 8:09:37 PM system.RegistrationSystem getAvailableCourses
+INFO: Available courses are fetched for the student 150118000
+Feb 19, 2022 8:09:42 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150118000 has selected ATA121
+Feb 19, 2022 8:09:42 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150118000 has selected TRD121
+Feb 19, 2022 8:09:42 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150118000 has selected CSE3000
+Feb 19, 2022 8:09:42 PM controller.StudentCourseSelectController sendAdvisorVerification
+INFO: Student 150118000 has selected CSE3033
+Feb 19, 2022 8:09:42 PM system.RegistrationSystem sendSelectionAdvisorVerification
+INFO: Student 150118000 has sent the selected to courses to the advisor.
+Feb 19, 2022 8:09:42 PM system.RegistrationSystem makeSelection
+INFO: Student 150118000 successfully registered to selected courses.
+Feb 19, 2022 8:09:49 PM controller.StudentWeeklyScheduleController listOptions
+INFO: Student 150118000 displayed Weekly Schedule.
+Feb 19, 2022 8:09:54 PM controller.StudentTranscriptController listOptions
+INFO: Student 150118000 displayed Transcript
+Feb 19, 2022 8:10:04 PM controller.MainMenuController goBackToLogin
+INFO: Student 150118000 logged out.
+Feb 19, 2022 8:10:09 PM com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+INFO: Could not load @font-face font [https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap]
